@@ -3,7 +3,7 @@
      Anything that keeps me interested and makes me curious.
 - 🌱 I’m currently learning python with the aim of pursuing a career in software development and data analysis.
 - 💞️ I’m looking to collaborate on any projects that could help me learn and contribute to the community.
-- 📫 How to reach me: email me at amestoy.mat@gmail.com
+- 📫 How to reach me: email me at amestoy.mat@gmail.com. Also on Linkedin: http://www.linkedin.com/in/amestoym
 
 <!---
 amestoym/amestoym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
